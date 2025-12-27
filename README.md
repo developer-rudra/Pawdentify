@@ -141,20 +141,31 @@ https://www.kaggle.com/code/midouazerty/dog-breed-identification-using-keras-92-
 
 📁 Project Folder Structure
 ├── src/
-│   ├── components/        # Reusable UI components
+
+│   ├── components/       # Reusable UI components
+
 │   ├── contexts/          # Global state management
+
 │   ├── services/          # API & Firebase services
+
 │   ├── pages/             # Application pages
+
 │
 ├── firebaseConfig/        # Firebase configuration
+
 │
 ├── backend/
 │   ├── api.py             # Backend API
+
 │   ├── prepare.py         # Dataset preprocessing
+
 │   ├── model_train.py     # Model training script
+
 │   ├── model_test.py      # Model testing
+
 │
 ├── public/
+
 ├── README.md
 
 ▶️ How to Run the Project
